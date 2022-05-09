@@ -171,6 +171,7 @@ We have not seen, (nor do we know of) a platform dedicated to educational conten
 
 - Team Leader: Cristhian Rincon (Thian)
 - U.N. Owen (Bielwenass), Payjoe93, Eric Petersen, DhruvJain
+
 ### Team Advisors:
 
 - Kevin Owocki
